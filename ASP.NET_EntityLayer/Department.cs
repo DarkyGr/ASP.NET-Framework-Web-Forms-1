@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ASP.NET_EntityLayer
 {
-    public class Class1
+    public class Department
     {
+        public int departmentId {  get; set; }
+        public string departmentName { get; set; }
     }
 }
