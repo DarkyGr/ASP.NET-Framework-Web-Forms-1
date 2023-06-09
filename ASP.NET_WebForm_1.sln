@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_WebForm_1", "ASP.NE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_EntityLayer", "ASP.NET_EntityLayer\ASP.NET_EntityLayer.csproj", "{C2160522-C20C-4B04-A9D6-55FCD8981975}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_DataLayer", "ASP.NET_DataLayer\ASP.NET_DataLayer.csproj", "{80A80856-2FCC-4609-9395-DC3AD82E9F51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C2160522-C20C-4B04-A9D6-55FCD8981975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2160522-C20C-4B04-A9D6-55FCD8981975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2160522-C20C-4B04-A9D6-55FCD8981975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A80856-2FCC-4609-9395-DC3AD82E9F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A80856-2FCC-4609-9395-DC3AD82E9F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A80856-2FCC-4609-9395-DC3AD82E9F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A80856-2FCC-4609-9395-DC3AD82E9F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
