@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Connection.cs" />
     <Compile Include="DepartmentDL.cs" />
+    <Compile Include="EmployeeDL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
