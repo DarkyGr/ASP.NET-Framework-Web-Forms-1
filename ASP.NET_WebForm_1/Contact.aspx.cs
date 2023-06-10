@@ -13,5 +13,10 @@ namespace ASP.NET_WebForm_1
         {
 
         }
+
+        protected void BtnSubmit_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
