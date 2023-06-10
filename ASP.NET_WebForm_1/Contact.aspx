@@ -10,7 +10,7 @@
     </div>
     <div class="mb-3">
         <label class="form-label">Departments</label>
-        <asp:DropDownList ID="DdlDepartments" runat="server" CssClass="form-control"></asp:DropDownList>
+        <asp:DropDownList ID="DdlDepartments" runat="server" CssClass="form-select"></asp:DropDownList>
     </div>
     <div class="mb-3">
         <label class="form-label">Salary</label>

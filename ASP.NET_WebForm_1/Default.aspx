@@ -16,10 +16,10 @@
 
                     <asp:TemplateField>
                         <ItemTemplate>
-                            <asp:LinkButton runat="server" CommandArgument="<%# Eval("employeeId") %>"
+                            <asp:LinkButton runat="server" CommandArgument='<%# Eval("employeeId") %>'
                                 OnClick="Edit_Click" CssClass="btn btn-sm btn-primary">Edit</asp:LinkButton>
 
-                            <asp:LinkButton runat="server" CommandArgument="<%# Eval("employeeId") %>"
+                            <asp:LinkButton runat="server" CommandArgument='<%# Eval("employeeId") %>'
                                 OnClick="Delete_Click" CssClass="btn btn-sm btn-danger" OnClientClick="return confirm('Are you sure to delete this employee?')"
                                 >Delete</asp:LinkButton>
                         </ItemTemplate>
